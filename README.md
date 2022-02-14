@@ -23,6 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## OpenFAIR Certification
 
+* [Open FAIR Certification - The Open Group's page](https://www.opengroup.org/certifications/openfair) - The first obvious stop, which includes links to the _Open Risk Taxonomy Technical Standard (O-RT)_ and _Open Risk Analysis Technical Standard (O-RA)_.
 * [Tony Martin-Vegue’s Recipe for Passing the OpenFAIR Exam](https://www.fairinstitute.org/blog/tony-martin-vegues-recipe-for-passing-the-openfair-exam) - OpenFAIR certification study and practice outline.
 
 ## Software
